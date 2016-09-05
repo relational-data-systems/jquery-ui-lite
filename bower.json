@@ -1,0 +1,22 @@
+{
+  "name": "jquery-ui-lite",
+  "homepage": "https://github.com/relational-data-systems/jquery-ui-lite",
+  "authors": [
+    "Luke Dutschke <luke@relational.com.au>"
+  ],
+  "version": "0.0.1",
+  "description": "Lite version of jquery-ui for ui-sortable.",
+  "main": "index.js",
+  "keywords": [
+    "jquery",
+    "jquery-ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
